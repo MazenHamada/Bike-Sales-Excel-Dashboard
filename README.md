@@ -33,6 +33,9 @@ The final interactive dashboard includes slicers for filtering by Region, Marita
 * **Income Correlation:** Across both genders, individuals who purchased a bike had a higher average income than those who did not.
 * **Regional Dominance:** North America represents the largest market for bike sales in this dataset, significantly outpacing Europe and the Pacific regions. 
 
+## Final Dashboard
+![Bike Sales Demographic Dashboard](Dashboard.png)
+
 ## Files in this Repository
 * `Bike_Sales_Dataset.xlsx`: The complete Excel workbook containing the raw data, cleaned data, pivot tables, and the final dashboard.
 * `Dashboard.png`: A high-resolution image of the final dashboard.
