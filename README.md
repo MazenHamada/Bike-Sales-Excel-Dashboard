@@ -1,4 +1,4 @@
-# Bike Sales Demographic Dashboard 🚲
+# Bike Sales Excel Dashboard 🚲
 
 ## Project Overview
 This project focuses on analyzing the demographic data of a retail store's customer base to understand the key characteristics of individuals who purchase bicycles. The goal is to identify trends in income, age, commute distance, and region to help target marketing efforts more effectively.
