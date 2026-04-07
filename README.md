@@ -34,5 +34,5 @@ The final interactive dashboard includes slicers for filtering by Region, Marita
 * **Regional Dominance:** North America represents the largest market for bike sales in this dataset, significantly outpacing Europe and the Pacific regions. 
 
 ## Files in this Repository
-* `Bike_Sales_Project.xlsx`: The complete Excel workbook containing the raw data, cleaned data, pivot tables, and the final dashboard.
+* `Bike_Sales_Dataset.xlsx`: The complete Excel workbook containing the raw data, cleaned data, pivot tables, and the final dashboard.
 * `Dashboard.png`: A high-resolution image of the final dashboard.
